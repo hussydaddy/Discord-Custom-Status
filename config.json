@@ -1,0 +1,15 @@
+{
+    "CLIENT_ID": "841120920466489415",
+    "rpc_activity": {
+        "details": "Nitro Client Soon Launching!",
+        "state": "For Status like this, Dm me or Join Magnum",
+        "largeImageKey": "magnum",
+        "smallImageKey": "add",
+        "largeImageText": "Magnum Official",
+        "smallImageText": "Join",
+        "buttons": [
+            { "label": "JOIN MAGNUM", "url": "https://discord.gg/PRzD6PujxJ" },
+            { "label": "INSTAGRAM", "url": "https://www.instagram.com/magnumofficial7/" }
+        ]
+    }   
+}
